@@ -1,0 +1,30 @@
+
+body{
+	background-color: lavender;
+}
+
+
+.icon{
+	padding:50px 0 ;
+	font-size: 30px;
+	color: maroon;
+
+}
+.form{
+	border:double blue;
+	padding:50px 50px;
+	background-color:teal ;
+}
+.form2{
+	border: double maroon;
+	padding:50px 50px ;
+  background-color:lightgoldenrodyellow;
+}
+.container{
+	width: 80%;
+	
+}
+.f_icon{
+	font-size: 30px;
+	color: teal;
+}
